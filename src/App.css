@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  display: flex;
+  gap: 25px; /* Creates clean, uniform spaces between Home, Subscribe, and About */
+}
